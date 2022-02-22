@@ -1,0 +1,18 @@
+{
+    "modelVersion": "pattern_mediatypesize",
+    "currency": "USD",
+    "skipRate": 0,
+    "schema":
+    {
+        "fields": ["mediaType","size"]
+    },
+    "values":
+    {
+        "banner|300x250": 6,
+        "banner|728x90": 1,
+        "banner|*": 14,
+        "video|640x480": 14,
+        "video|300x250": 15,
+        "video|728x90": 16
+    }
+}

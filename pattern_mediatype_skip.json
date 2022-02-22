@@ -1,0 +1,16 @@
+{
+    "modelVersion": "pattern_mediatype_skip",
+    "currency": "USD",
+    "skipRate": 100,
+    "schema":
+    {
+        "fields": ["mediaType"]
+    },
+    "values":
+    {
+        "banner": 10,
+        "video": 12,
+        "native": 5
+    },
+    "default": 0.01
+}

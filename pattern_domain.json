@@ -1,0 +1,15 @@
+{
+    "modelVersion": "pattern_domain",
+    "currency": "USD",
+    "skipRate": 0,
+    "schema":
+    {
+        "fields": ["domain"]
+    },
+    "values":
+    {
+        "ebay.com": 6,
+        "prebid.org": 2
+    },
+    "default": 0.01
+}

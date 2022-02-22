@@ -1,0 +1,14 @@
+{
+    "modelVersion": "pattern_mediatype_wo_video_no_default",
+    "currency": "USD",
+    "skipRate": 0,
+    "schema":
+    {
+        "fields": ["mediaType"]
+    },
+    "values":
+    {
+        "banner": 10,
+        "native": 5
+    }
+}

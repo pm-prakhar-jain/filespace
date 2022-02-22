@@ -1,0 +1,16 @@
+{
+    "modelVersion": "pattern_size_video",
+    "currency": "USD",
+    "skipRate": 0,
+    "schema":
+    {
+        "fields": ["size"]
+    },
+    "values":
+    {
+        "banner": 10,
+        "video": 12,
+        "native": 5
+    },
+    "default": 0.01
+}

@@ -1,0 +1,16 @@
+{
+    "modelVersion": "pattern_size",
+    "currency": "USD",
+    "skipRate": 0,
+    "schema":
+    {
+        "fields": ["size"]
+    },
+    "values":
+    {
+        "728x90": 10,
+        "320x250": 2,
+        "160x600": 16
+    },
+    "default": 0.01
+}

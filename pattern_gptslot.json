@@ -1,0 +1,15 @@
+{
+    "modelVersion": "pattern_gptslot",
+    "currency": "USD",
+    "skipRate": 0,
+    "schema":
+    {
+        "fields": ["gptSlot"]
+    },
+    "values":
+    {
+        "/43743431/DMDemo": 6,
+        "/43743431/DMDemo1": 5
+    },
+    "default": 0.01
+}

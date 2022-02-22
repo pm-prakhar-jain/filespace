@@ -1,0 +1,15 @@
+{
+    "modelVersion": "pattern_adunitcode",
+    "currency": "USD",
+    "skipRate": 0,
+    "schema":
+    {
+        "fields": ["adUnitCode"]
+    },
+    "values":
+    {
+        "Div1": 6,
+        "Div2": 5
+    },
+    "default": 0.01
+}
